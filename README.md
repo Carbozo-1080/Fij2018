@@ -1,3 +1,5 @@
 # Fij2018
-Vue sur l'avancement du projet 
-hihi
+## projet robotique 
+Vue sur l'avancement du projet
+
+Dans l'onglet *projetcs* se trouve les differents *kanban*
