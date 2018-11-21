@@ -1,0 +1,6 @@
+cd : changer de dossier
+pwd : affiche le chemin de dossier dans le quel on est
+touch : actualise un ficher, si il n'existe pas, il le crée
+mkdir: crée un dossier 
+rm : supprime un fichier "ou dossier"
+rmdir : supprime un dossier
